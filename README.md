@@ -1,4 +1,4 @@
-[![Jhon Cardenas]([https://github.com/cesaralvrz/cesaralvrz/blob/main/img/banner.png](https://github.com/Alejandro-CP-dev/Jhon-Cardenas/blob/main/img/banner.png))]
+[![Jhon Cardenas]([https://github.com/cesaralvrz/cesaralvrz/blob/main/img/banner.png)]]
 ## !Hola😁, Soy Jhon🍄¡
 
 
